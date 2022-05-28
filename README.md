@@ -1,2 +1,8 @@
-# Python_Estudos
-Alguns estudos utilizando Python e seus derivados.
+# Python Estudos
+Repositório com alguns estudos utilizando Python. 
+
+# Tecnologias e Aprendizados
+* Colab
+* Jupyter Notebook
+* Pandas Library
+* Data Science
