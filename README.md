@@ -1,2 +1,2 @@
 # Python_Estudos
-Estudos da linguagem Python.
+Alguns estudos utilizando Python e seus derivados.
